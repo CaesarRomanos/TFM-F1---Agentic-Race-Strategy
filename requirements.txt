@@ -1,0 +1,8 @@
+# Backtest mínimo — paso 1 del TFM.
+# Usar con Python 3.11 o 3.12 (NO 3.14: FastF1/numpy/scipy aún no traen wheels
+# estables para 3.14 y la instalación falla compilando).
+fastf1>=3.3
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+scikit-learn>=1.3
